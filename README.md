@@ -2,8 +2,8 @@
 <h1 align="center"> Анализ деятельности интернет-магазина и продуктивности его рекламных каналов </h1>
 
 <p align="center">
-<a href="https://academy.yandex.ru/"><img src="https://user-images.githubusercontent.com/49817414/209363612-96dacd8e-b0a4-4ffc-bfc0-ac3da6a29145.png" width=40%  title="Академия Яндекса"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://academy.yandex.ru/intensive/data-analysis"><img src="https://github.com/Miseadolch/e-com/blob/main/photos/titled.png" width=40%  title="Интенсив по анализу данных"/></a>
+<a href="https://academy.yandex.ru/"><img src="https://github.com/GeorgeItsMe/YandexProjectDataScience/blob/main/pictures/Yandex1.png" width=40%  title="Академия Яндекса"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://academy.yandex.ru/intensive/data-analysis"><img src="https://github.com/GeorgeItsMe/YandexProjectDataScience/blob/main/pictures/titled.png" width=40%  title="Интенсив по анализу данных"/></a>
 </p>
 
 ## Направление проекта
