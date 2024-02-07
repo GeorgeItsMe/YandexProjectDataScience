@@ -19,7 +19,7 @@ E-commerce, реклама, продажи
 <p>
   
   <h3>Иван Катрин - Куратор проекта</h3>
-  <a href="https://academy.yandex.ru/"><img src="https://user-images.githubusercontent.com/49817414/209367782-c1ad1ee8-cf76-44d2-ba91-4e9d8ce6b2eb.png" title="Академия Яндекса"/></a>
+  <a href="https://academy.yandex.ru/"><img src="https://github.com/GeorgeItsMe/YandexProjectDataScience/blob/main/pictures/209367782-c1ad1ee8-cf76-44d2-ba91-4e9d8ce6b2eb.png" title="Академия Яндекса"/></a>
 </p>
 
 </br>
