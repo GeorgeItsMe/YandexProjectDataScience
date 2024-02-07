@@ -17,7 +17,7 @@ E-commerce, реклама, продажи
 <br clear="left"/>
 
 <p>
-  <img src="https://github.com/Miseadolch/e-com/blob/main/photos/Untitled1.png" width=15% align="left"/>
+  
   <h3>Иван Катрин - Куратор проекта</h3>
   <a href="https://academy.yandex.ru/"><img src="https://user-images.githubusercontent.com/49817414/209367782-c1ad1ee8-cf76-44d2-ba91-4e9d8ce6b2eb.png" title="Академия Яндекса"/></a>
 </p>
@@ -26,7 +26,7 @@ E-commerce, реклама, продажи
 <br clear="left"/>
 
 <p>
-  <img src="" width=15% align="left"/>
+  
   <h3>Сибик Георгий - Аналитик - <a href="https://github.com/GeorgeItsMe" title="Аккаунт на GitHub">GitHub</a></h3>
 
   </br>
@@ -39,7 +39,7 @@ E-commerce, реклама, продажи
 <br clear="left"/>
 
 <p>
-  <img src="" width=15% align="left"/>
+  
   <h3>Аким Качалиев - Аналитик - <a href="https://github.com/AkimKachaliev" title="Аккаунт на GitHub">GitHub</a></h3>
  
   </br>
@@ -52,7 +52,7 @@ E-commerce, реклама, продажи
 <br clear="left"/>
 
 <p>
-  <img src="" width=15% align="left"/>
+  
   <h3>Никита Леонов - Аналитик - <a href="" title="Аккаунт на GitHub">GitHub</a></h3>
 
   </br>
